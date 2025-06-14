@@ -80,18 +80,15 @@
 ## 🔗 Connect with Me
 
 <p align="left">
-  <a href="linkedin.com/in/surjakumarjana" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" height="24" style="vertical-align:middle;"/> 
-    <span style="vertical-align:middle; margin-left:8px;">linkedin.com/in/surjakumarjana</span>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" height="24" style="vertical-align:middle;"/> 
+  <a href="linkedin.com/in/surjakumarjana" style="vertical-align:middle;">Surja Kumar Jana</a>
 </p>
 
 <p align="left">
-  <a href="https://github.com/your-github-username" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" height="24" style="vertical-align:middle;"/> 
-    <span style="vertical-align:middle; margin-left:8px;">github.com/your-github-username</span>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" height="24" style="vertical-align:middle;"/> 
+  <a href="https://github.com/your-github-username" style="vertical-align:middle;">github.com/your-github-username</a>
 </p>
+
 
 
 
