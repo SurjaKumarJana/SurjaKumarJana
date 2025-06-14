@@ -85,9 +85,9 @@
 
 <br>
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24"/>](https://github.com/your-github-username)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24"/>](https://github.com/SurjaKumarJana)
 &nbsp;
-[github.com/your-github-username](https://github.com/your-github-username)
+[https://github.com/SurjaKumarJana](https://github.com/SurjaKumarJana)
 
 
 
