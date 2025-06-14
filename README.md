@@ -17,7 +17,7 @@
 - 🔭 Currently working on **Spring Boot microservices**
 - 🌱 Learning **Full Stack Development** with React and Spring Boot
 - 💬 Ask me about **Java**, **Databases**, **Backend Architecture**
-- 📫 Reach me at: [janaofficial0101@gmail.com](janaofficial0101@gmail.com)
+- 📫 Reach me at: janaofficial0101@gmail.com
 - ☕ Fun fact: I debug with chai — it works every time
 
 ---
@@ -87,7 +87,7 @@
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24"/>](https://github.com/SurjaKumarJana)
 &nbsp;
-[https://github.com/SurjaKumarJana](https://github.com/SurjaKumarJana)
+[Surja Kumar Jana](https://github.com/SurjaKumarJana)
 
 
 
