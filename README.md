@@ -79,16 +79,15 @@
 
 ## 🔗 Connect with Me
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" height="24" style="vertical-align:middle;"/> 
-  <a href="linkedin.com/in/surjakumarjana" style="vertical-align:middle;">Surja Kumar Jana</a>
-</p>
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24"/>](https://www.linkedin.com/in/surjakumarjana)
+&nbsp;
+[Surja Kumar Jana](https://www.linkedin.com/in/surjakumarjana)
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" height="24" style="vertical-align:middle;"/> 
-  <a href="https://github.com/your-github-username" style="vertical-align:middle;">github.com/your-github-username</a>
-</p>
+<br>
 
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24"/>](https://github.com/your-github-username)
+&nbsp;
+[github.com/your-github-username](https://github.com/your-github-username)
 
 
 
