@@ -73,7 +73,7 @@
 
 ## 📂 Featured Projects
 
-- comming soon....
+- coming soon....
 
 ---
 
