@@ -1,14 +1,15 @@
-<p align="center">
+<div align="center">
 
-# Hi 👋, I'm Surja
+<h1>Hi 👋, I'm [Your Name]</h1>
 
-## Java Backend Developer
+<h2>Java Backend Developer</h2>
 
-### B.Tech Computer Science Undergraduate
+<h3>B.Tech Computer Science Undergraduate</h3>
 
-Building scalable backend systems with Java and gradually expanding into Full Stack Development.
+<p>Building scalable backend systems with Java and gradually expanding into Full Stack Development.</p>
 
-</p>
+</div>
+
 
 
 ---
@@ -22,18 +23,53 @@ I am always curious, eager to explore new technologies, and committed to growing
 ---
 ## Technical Skills
 
-| Category              | Skills / Tools |
-|-----------------------|----------------|
-| **Languages**         | Java |
-| **Frameworks & Libraries** | Spring Boot, Spring Security, Spring Data JPA, Hibernate , JDBC|
-| **Web & APIs**        | REST APIs|
-| **Databases & Caching** | MySQL, Redis |
-| **Messaging & Async** | Apache Kafka |
-| **Testing**           | JUnit, Mockito |
-| **Cloud & Deployment** | AWS |
-| **Tools & IDEs**      | Postman, Maven, Git, GitHub, IntelliJ IDEA , Swagger |
-| **Frontend**          | ReactJS, HTML, CSS, Tailwind CSS |
-| **Learning Interests** | AI/ML, Data Science |
+<table align="center">
+  <tr>
+    <th>Category</th>
+    <th>Skills / Tools</th>
+  </tr>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>Java</td>
+  </tr>
+  <tr>
+    <td><b>Frameworks & Libraries</b></td>
+    <td>Spring Boot, Spring Security, Spring Data JPA, Hibernate, JDBC</td>
+  </tr>
+  <tr>
+    <td><b>Web & APIs</b></td>
+    <td>REST APIs</td>
+  </tr>
+  <tr>
+    <td><b>Databases & Caching</b></td>
+    <td>MySQL, Redis</td>
+  </tr>
+  <tr>
+    <td><b>Messaging & Async</b></td>
+    <td>Apache Kafka</td>
+  </tr>
+  <tr>
+    <td><b>Testing</b></td>
+    <td>JUnit, Mockito</td>
+  </tr>
+  <tr>
+    <td><b>Cloud & Deployment</b></td>
+    <td>AWS</td>
+  </tr>
+  <tr>
+    <td><b>Tools & IDEs</b></td>
+    <td>Postman, Maven, Git, GitHub, IntelliJ IDEA, Swagger</td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>ReactJS, HTML, CSS, Tailwind CSS</td>
+  </tr>
+  <tr>
+    <td><b>Learning Interests</b></td>
+    <td>AI/ML, Data Science</td>
+  </tr>
+</table>
+
 ---
 <p align="center">
   <table>
