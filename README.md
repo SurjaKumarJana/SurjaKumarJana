@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi 👋, I'm [Your Name]</h1>
+<h1>Hi 👋, I'm Surja</h1>
 
 <h2>Java Backend Developer</h2>
 
