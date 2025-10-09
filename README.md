@@ -1,9 +1,14 @@
-# Hi , I'm Surja
+<p align="center">
 
-## Java Backend Developer | B.Tech Computer Science Undergraduate
+# Hi 👋, I'm Surja
 
-I’m passionate about **building scalable and efficient backend systems** with Java, while gradually expanding my skills into **Full Stack Development** and exploring **AI/ML**.  
-I enjoy **solving real-world problems**, learning new technologies, and creating projects that make an impact.
+## Java Backend Developer
+
+### B.Tech Computer Science Undergraduate
+
+Building scalable backend systems with Java and gradually expanding into Full Stack Development.
+
+</p>
 
 
 ---
